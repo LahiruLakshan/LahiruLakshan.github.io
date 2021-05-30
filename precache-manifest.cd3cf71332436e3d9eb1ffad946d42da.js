@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bbbd2b207b6078279bde68adf1314a3",
+    "revision": "d45500b188ec92d6e0ed59a64193b13e",
     "url": "./index.html"
   },
   {
-    "revision": "95648260f61923701802",
+    "revision": "ee9b9e81a780c729f0bf",
     "url": "./static/css/main.e18a58e3.chunk.css"
   },
   {
-    "revision": "1f92abce29b13dc17e4b",
-    "url": "./static/js/2.acd106a6.chunk.js"
+    "revision": "092aaadc8363e48bccbb",
+    "url": "./static/js/2.18538065.chunk.js"
   },
   {
-    "revision": "95648260f61923701802",
-    "url": "./static/js/main.271889b6.chunk.js"
+    "revision": "ee9b9e81a780c729f0bf",
+    "url": "./static/js/main.a240859d.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -168,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/feelingProud.a73310ea.svg"
   },
   {
+    "revision": "0abd327a1a0037b7c5175782b1223b79",
+    "url": "./static/media/figma-logo.0abd327a.png"
+  },
+  {
     "revision": "589bec7d632ecff9672dc4da97897bbd",
     "url": "./static/media/fullstack.589bec7d.svg"
   },
@@ -242,6 +246,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35ca1e2adefe4b5122452006658e260b",
     "url": "./static/media/python.35ca1e2a.png"
+  },
+  {
+    "revision": "43e8bef195d8bee8f1ca69fd1a117e27",
+    "url": "./static/media/react-js.43e8bef1.png"
   },
   {
     "revision": "b167d9a852a29a546cf34fb794821145",
