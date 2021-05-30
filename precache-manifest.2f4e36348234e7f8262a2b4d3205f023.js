@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72c5e3cd903c172aeeb37a47ef5752f3",
+    "revision": "9714da209ecf348a7962cf4ea168d302",
     "url": "./index.html"
   },
   {
-    "revision": "4e187b63a77993fb5fdf",
-    "url": "./static/css/main.a1d8275d.chunk.css"
+    "revision": "38b3813ad1a2474d74b4",
+    "url": "./static/css/main.e18a58e3.chunk.css"
   },
   {
-    "revision": "9a8f95b1709de317f59f",
-    "url": "./static/js/2.c53d4e78.chunk.js"
+    "revision": "1f92abce29b13dc17e4b",
+    "url": "./static/js/2.acd106a6.chunk.js"
   },
   {
-    "revision": "4e187b63a77993fb5fdf",
-    "url": "./static/js/main.d08b172d.chunk.js"
+    "revision": "38b3813ad1a2474d74b4",
+    "url": "./static/js/main.3e38134a.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -56,10 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/address_image.3b021f8f.svg"
   },
   {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "./static/media/animated_ashutosh.6c8410d0.png"
-  },
-  {
     "revision": "a633be2faf9b129259563d65d0aa1333",
     "url": "./static/media/animated_logo.a633be2f.svg"
   },
@@ -74,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3685be8bafcd5fe4786b39cba69a561",
     "url": "./static/media/codeInLogo.b3685be8.png"
+  },
+  {
+    "revision": "a3c013abe8e75ff813b6e12430325cf8",
+    "url": "./static/media/codex.a3c013ab.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -204,6 +204,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/jsFramework.b05ae5b5.svg"
   },
   {
+    "revision": "c6ea2f6f62518e49f6e7ccebd083e78f",
+    "url": "./static/media/lahiru.c6ea2f6f.png"
+  },
+  {
     "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
     "url": "./static/media/legato_logo.4ba886ba.png"
   },
@@ -234,6 +238,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd5f4148a754968cb4444206539c565c",
     "url": "./static/media/pwa.bd5f4148.png"
+  },
+  {
+    "revision": "35ca1e2adefe4b5122452006658e260b",
+    "url": "./static/media/python.35ca1e2a.png"
+  },
+  {
+    "revision": "b167d9a852a29a546cf34fb794821145",
+    "url": "./static/media/school.b167d9a8.png"
   },
   {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
